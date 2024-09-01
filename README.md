@@ -18,35 +18,36 @@
 
 ### 项目展示
 
-本项目涉及 10 多个页面，前面已经展示部分页面。
+本项目涉及 10 多个页面，这里只做部分展示。
+线上体验访问地址：[海答题](http://haidati.l-hy.site/)
 
 应用详情页：
 
-![](https://pic.yupi.icu/1/20240604145229915.png)
+![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture0.png)
 
 用户答题页面：
 
-![](https://pic.yupi.icu/1/20240604145230156.png)
+![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture2.png)
 
 创建应用页：
 
-![](https://pic.yupi.icu/1/20240604145230361.png)
+![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture4.png)
 
 创建题目页，涉及复杂动态嵌套表单的开发：
 
-![](https://pic.yupi.icu/1/20240604145230557.png)
+![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture6.png)
 
 应用管理页面：
 
-![](https://pic.yupi.icu/1/20240604145230731.png)
+![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture8.png)
 
 统计分析页面：
 
-![](https://pic.yupi.icu/1/20240604145230905.png)
+![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture10.png)
 
 应用分享功能：
 
-![](https://pic.yupi.icu/1/20240604145231269.png)
+![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture12.png)
 
 
 
@@ -75,15 +76,15 @@
 
 ### 1、核心业务流程图
 
-![](https://pic.yupi.icu/1/20240604145232082.png)
+![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture14.png)
 
 ### 2、时序图
 
-![](https://pic.yupi.icu/1/20240604145232239.png)
+![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture16.png)
 
 ### 3、架构设计图
 
-![](https://pic.yupi.icu/1/20240604145232474.png)
+![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture18.png)
 
 
 
