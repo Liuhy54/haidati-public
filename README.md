@@ -23,31 +23,31 @@
 
 应用详情页：
 
-![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture0.png)
+![](https://github.com/Liuhy54/haidati-public/blob/picture/haidati/haidati-github-picture0.png)
 
 用户答题页面：
 
-![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture2.png)
+![](https://github.com/Liuhy54/haidati-public/blob/picture/haidati/haidati-github-picture2.png)
 
 创建应用页：
 
-![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture4.png)
+![](https://github.com/Liuhy54/haidati-public/blob/picture/haidati/haidati-github-picture4.png)
 
 创建题目页，涉及复杂动态嵌套表单的开发：
 
-![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture6.png)
+![](https://github.com/Liuhy54/haidati-public/blob/picture/haidati/haidati-github-picture6.png)
 
 应用管理页面：
 
-![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture8.png)
+![](https://github.com/Liuhy54/haidati-public/blob/picture/haidati/haidati-github-picture8.png)
 
 统计分析页面：
 
-![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture10.png)
+![](https://github.com/Liuhy54/haidati-public/blob/picture/haidati/haidati-github-picture10.png)
 
 应用分享功能：
 
-![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture12.png)
+![](https://github.com/Liuhy54/haidati-public/blob/picture/haidati/haidati-github-picture12.png)
 
 
 
@@ -76,15 +76,15 @@
 
 ### 1、核心业务流程图
 
-![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture14.png)
+![](https://github.com/Liuhy54/haidati-public/blob/picture/haidati/haidati-github-picture14.png)
 
 ### 2、时序图
 
-![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture16.png)
+![](https://github.com/Liuhy54/haidati-public/blob/picture/haidati/haidati-github-picture16.png)
 
 ### 3、架构设计图
 
-![](http://www.l-hy.site:9123/picture/github-haidati/haidati-github-picture18.png)
+![](https://github.com/Liuhy54/haidati-public/blob/picture/haidati/haidati-github-picture18.png)
 
 
 
